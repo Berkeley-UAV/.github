@@ -1,6 +1,6 @@
 ### "Now, I am become Flight, the creator of Drones."
 
-@ UCBerkeley 🐻 we build drones in Cory Hall. Testing them there is our way of ensuring they can survive any environment. 
+At UCBerkeley 🐻 we build drones in Cory Hall. Testing them there is our way of ensuring they can survive any environment. 
 
 <!--
 **Here are some ideas to get you started:**
