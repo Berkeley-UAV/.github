@@ -2,7 +2,7 @@
 
 🐻 We build drones in Cory Hall. Testing them there is our way of ensuring they can survive any environment. 
 
-Must have access to view: https://www.notion.so/Tilt-Rotor-UAV-e46137f7488741cdbbdd6ecf57b008d7?pvs=4
+**Must have access to view:** https://www.notion.so/Tilt-Rotor-UAV-e46137f7488741cdbbdd6ecf57b008d7?pvs=4
 
 <!--
 **Here are some ideas to get you started:**
